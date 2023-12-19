@@ -1,5 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## .env
+Requires key from ElevenLabs
+
+```bash
+XI_API_KEY=""
+```
+
+![Screenshot 2023-12-19 at 12 18 55 PM](https://github.com/dclsamples/fakevoice/assets/1455542/39a996bc-a2c4-4d5d-bd77-08da7d62639a)
+
 ## Getting Started
 
 First, run the development server:
